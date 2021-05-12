@@ -1,6 +1,6 @@
 # mol-weight-calc
-This program is made to calculate the molecular weight of compounds based on their molecular formula.
+This program is created to calculate the molecular weight of compounds based on their molecular formula.
 
-Language: python
+Language Used: python
 IDE: pycharm
-Feedback and suggestations are highly recommanded at raishwor2@gmail.com
+Feedback and suggestions are highly recommended at raishwor2@gmail.com
